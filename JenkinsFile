@@ -5,8 +5,7 @@ pipeline {
 	environment{
 	          LS_VERSION_MODE='tag'
 			  }
-			  
-			  
+			  	  
     stages {
 	
 	    stage('Intialize') {

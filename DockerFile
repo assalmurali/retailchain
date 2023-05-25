@@ -5,3 +5,5 @@ RUN chmod 777 monitor-service-0.0.1-SNAPSHOT.jar
 CMD ["java","-jar","monitor-service-SNAPSHOT.jar"]
 ENTRYPOINT ["java", "-jar", "/app.jar"]
 
+
+
